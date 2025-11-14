@@ -100,4 +100,14 @@ Licenciamiento: Generación de HWID (uuid, platform, hashlib) y validación remo
 ⚠️ Advertencia de Uso
 Este software ha sido diseñado como una herramienta de apoyo y referencia. El uso en contextos prohibidos por regulaciones académicas o de otra índole es responsabilidad exclusiva del usuario. El desarrollador no se hace responsable del uso indebido de esta aplicación.
 
-<img width="1903" height="869" alt="image" src="https://github.com/user-attachments/assets/afbac49d-e899-4bac-b58d-c7666521ca11" />
+ Aqui les dejare unas pruebas
+
+ <img width="1918" height="870" alt="image" src="https://github.com/user-attachments/assets/0a74f1f8-da11-408c-9276-40b62dfbc28a" />
+ <img width="1902" height="866" alt="image" src="https://github.com/user-attachments/assets/93a71a3b-76e8-4408-94d4-9e14bd93738a" />
+ <img width="1898" height="843" alt="image" src="https://github.com/user-attachments/assets/ef8b930a-71bd-431b-b0b7-083abc7a665f" />
+
+ Esta app sirve para la mayoria de plataformas 
+
+ 
+
+
