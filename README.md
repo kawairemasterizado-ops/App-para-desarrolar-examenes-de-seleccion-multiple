@@ -99,3 +99,5 @@ Licenciamiento: Generación de HWID (uuid, platform, hashlib) y validación remo
 
 ⚠️ Advertencia de Uso
 Este software ha sido diseñado como una herramienta de apoyo y referencia. El uso en contextos prohibidos por regulaciones académicas o de otra índole es responsabilidad exclusiva del usuario. El desarrollador no se hace responsable del uso indebido de esta aplicación.
+
+<img width="1903" height="869" alt="image" src="https://github.com/user-attachments/assets/afbac49d-e899-4bac-b58d-c7666521ca11" />
