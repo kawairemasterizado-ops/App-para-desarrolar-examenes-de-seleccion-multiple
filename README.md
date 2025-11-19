@@ -108,6 +108,8 @@ Este software ha sido diseñado como una herramienta de apoyo y referencia. El u
 
  Esta app sirve para la mayoria de plataformas 
 
+ La licencia tiene un valor.
+
  
 
 
